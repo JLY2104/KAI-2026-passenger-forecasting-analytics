@@ -96,9 +96,9 @@ Mengembangkan sistem analitik untuk memprediksi lonjakan penumpang kereta api ja
 | Volume Data | 940 B |
 | Time Coverage | Januari 2007 – Februari 2026 |
 | Completeness | 99% |
-| Accuracy | High (Verified by Dishub & PT KAI) |
-| Consistency | Good |
-| Timeliness | Last Updated 2 Februari 2026 |
+| Accuracy | Tinggi (diverifikasi oleh Dishub & PT KAI) |
+| Consistency | Baik |
+| Timeliness | Update Terakhir 2 Februari 2026 |
 
 ---
 
